@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DebDynamo
+- 👋 Hi, I’m Deb-halder
 - 👀 I’m interested in web creating
 - 🌱 I’m currently learning python and html
 - 📫 How to reach me -> my IG @call_me_deb 
